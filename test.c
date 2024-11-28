@@ -22,5 +22,7 @@ int main()
     b->data = 200;
     c->data = 300;
 
+    print("Oi, tudo buain?");
+
     return 0;
 }
