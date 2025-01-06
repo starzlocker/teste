@@ -8,6 +8,7 @@ int main()
         struct node *next;
     }typedef node;
 
+    //declaring nodes dsadsadsadsadsadasdsadasdsad
     struct node *a,*b,*c;
 
     //Implement task 1 here
