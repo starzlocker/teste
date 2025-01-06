@@ -8,7 +8,7 @@ int main()
         struct node *next;
     }typedef node;
 
-    //declaring nodes 
+    //declaring nodes dasdas
     struct node *a,*b,*c;
 
     //Implement task 1 here
